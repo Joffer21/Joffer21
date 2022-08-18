@@ -1,7 +1,10 @@
-<h1 align="center">Oi👋, Eu sou João Roberto Ferreira</h1>
-<h3 align="center">Louco apaixonado por programação no mundo digital</h3>
+<h1 align="center"> Oi👋, Eu sou João Roberto Ferreira</h1>
 
-- 🔭 Atualmente estou estudando [Web Completo Udemy](https://www.udemy.com/course/web-completo/learn/lecture/13380808?start=1#questions)
+<h3 align="center">Apaixonado por programação e tecnoligias no mundo digital</h3>
+
+## My work
+
+- 🔭 Atualmente estou estudando [Web Completo Udemy](https://www.udemy.com/course/web-completo)
 
 - 🌱Atualmente estou aprendendo **HTML5, CSS3, BootStrap 4, Java Script, ES6 (JavaScript Moderno), PHP 7, Orientação a Objetos, MySQL, PHP com PDO, Ajax, JQuery, MVC, APIs, IONIC, WordPress**
 
