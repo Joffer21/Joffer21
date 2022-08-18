@@ -4,15 +4,17 @@
 
 ## My work
 
+- 💻 A procura de uma oportunidade na área de **Programação**.
+
 - 🔭 Atualmente estou estudando [Web Completo Udemy](https://www.udemy.com/course/web-completo)
 
-- 🌱Atualmente estou aprendendo **HTML5, CSS3, BootStrap 4, Java Script, ES6 (JavaScript Moderno), PHP 7, Orientação a Objetos, MySQL, PHP com PDO, Ajax, JQuery, MVC, APIs, IONIC, WordPress**
+- 🌱 Aprendizado do curso -> **HTML5, CSS3, BootStrap 4, Java Script, ES6 (JavaScript Moderno), PHP 7, Orientação a Objetos, MySQL, PHP com PDO, Ajax, JQuery, MVC, APIs, IONIC, WordPress**
 
-- 💬 Pergunte-me sobre **HTML5, CSS3, BootStrap 4, Java Script, ES6 (JavaScript Moderno), PHP 7, Orientação a Objetos, MySQL, PHP com PDO, Ajax, JQuery, MVC, APIs, IONIC, WordPress**
+- 💬 Pergunte-me sobre -> **HTML5, CSS3, BootStrap 4, Java Script, ES6 (JavaScript Moderno), PHP 7, Orientação a Objetos, MySQL, PHP com PDO, Ajax, JQuery, MVC, APIs, IONIC, WordPress**
 
-- 📫 Você me acha através do email **joffer21.jrf@gmail.com**
+- 📫 Você me acha através do email -> **joffer21.jrf@gmail.com**
 
-- 📄 Conheça minhas experiências [www.linkedin.com/in/joffer21](www.linkedin.com/in/joffer21)
+- 📄 Conheça minhas experiências -> [www.linkedin.com/in/joffer21](www.linkedin.com/in/joffer21)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
