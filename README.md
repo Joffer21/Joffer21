@@ -2,12 +2,6 @@
 
 <h3 align="center">❤️ Passionate about programming and technologies in the digital world</h3>
 
-<div align="center">
-  <a href="https://github.com/joffer21">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joffer21&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joffer21&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
-
  ## My work
 
 - 🏢 Looking for an opportunity in the area of **Programming**
@@ -17,6 +11,14 @@
 - 💻 I’m currently learning **React**
   
 - 📫 You find me via email -> **joffer21.jrf@gmail.com**
+
+<div align="left">
+  <a href="https://github.com/joffer21">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joffer21&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joffer21&layout=compact&langs_count=7&theme=cobalt"/>
+</div>
+
+
   
 ## Ask me about: 
   <div style="display: inline_block">
