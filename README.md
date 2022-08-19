@@ -6,13 +6,14 @@
 
 - 🏢 Looking for an opportunity in the area of **Programming**
 
-- 🌱 Learned in **HTML5, CSS3, BootStrap 4, Java Script, ES6, PHP 7, MySQL, PHP com PDO, Ajax, JQuery, MVC, APIs, IONIC, WordPress**
+- 🌱 Learned in **HTML5, CSS3, BootStrap 4, JavaScript, ES6, PHP 7, MySQL, PHP, Ajax, JQuery, MVC, APIs, IONIC, WordPress**
 
 - 💻 I’m currently learning **React**
   
 - 📫 You find me via email -> **joffer21.jrf@gmail.com**
+- 
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/joffer21">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joffer21&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joffer21&layout=compact&langs_count=7&theme=cobalt"/>
